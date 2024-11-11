@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @synedtsu
 - 👀 I’m interested in learning new skills and programming languages
-- 🌱 I’m currently learning Python, C++
+- 🌱 I’m currently learning .NET, C#, Git
 - 📫 How to reach me: Telegram(@synedtsu), Instagram(@synedtsu), Discord(synedtsu#5439)
 
 <!---
